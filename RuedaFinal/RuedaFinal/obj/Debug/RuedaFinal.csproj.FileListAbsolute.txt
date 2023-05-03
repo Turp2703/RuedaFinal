@@ -1,0 +1,170 @@
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.exe.config
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.exe
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.pdb
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\MySql.Data.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Google.Protobuf.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\ZstdNet.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Ubiety.Dns.Core.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Buffers.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Compression.LZ4.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Hash.xxHash.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\MySql.Data.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.AssemblyReference.cache
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.SuggestedBindingRedirects.cache
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Properties.Resources.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.vistaPrincipal.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.GenerateResource.cache
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.CoreCompileInputs.cache
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.CopyComplete
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.exe
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.pdb
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaSesion.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaCuentas.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaCuenta.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaLocalidad.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaLocalidades.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.exe.config
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.exe
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\RuedaFinal.pdb
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Google.Protobuf.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\ZstdNet.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\BouncyCastle.Crypto.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Ubiety.Dns.Core.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Memory.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Buffers.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Compression.LZ4.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\K4os.Hash.xxHash.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Numerics.Vectors.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\MySql.Data.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.AssemblyReference.cache
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Properties.Resources.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaCuenta.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaCuentas.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaLocalidad.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaLocalidades.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.vistaPrincipal.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaSesion.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.GenerateResource.cache
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.CoreCompileInputs.cache
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.csproj.CopyComplete
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.exe
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.pdb
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaDuenos.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Memory.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Numerics.Vectors.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaDuenos.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaDueno.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInmuebles.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInmueble.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaDueno.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInmueble.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInmuebles.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInquilino.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInquilinos.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInquilino.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaInquilinos.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaContrato.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaContratos.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaExportar.resources
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.barcodes.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.commons.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.forms.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.io.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.kernel.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.layout.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.pdfa.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.sign.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.styledxmlparser.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.svg.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Newtonsoft.Json.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.ValueTuple.dll
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\BouncyCastle.Crypto.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.barcodes.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.commons.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.forms.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.io.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.kernel.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.layout.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.pdfa.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.sign.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.styledxmlparser.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.svg.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Newtonsoft.Json.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Buffers.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Memory.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Numerics.Vectors.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Escuela\7mo\Programacion\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.ValueTuple.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.barcodes.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.commons.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.forms.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.io.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.kernel.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.layout.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.pdfa.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.sign.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.styledxmlparser.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.svg.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Options.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Newtonsoft.Json.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.ValueTuple.dll
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\BouncyCastle.Crypto.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.barcodes.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.commons.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.forms.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.io.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.kernel.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.layout.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.pdfa.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.sign.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.styledxmlparser.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\itext.svg.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Options.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\Newtonsoft.Json.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Buffers.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Memory.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Numerics.Vectors.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\bin\Debug\System.ValueTuple.xml
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaContrato.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaContratos.resources
+E:\7mo 5ta\Rueda\RuedaFinal\RuedaFinal\RuedaFinal\obj\Debug\RuedaFinal.Vistas.vistaExportar.resources

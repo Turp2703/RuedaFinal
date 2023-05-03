@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="RuedaFinal.Conexion">
+    <Position X="27.75" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAAAAAAAgAAAAAAAABAQI=</HashCode>
+      <FileName>Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlContratos">
+    <Position X="12.75" Y="6.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Controladores\controlContratos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlCuentas">
+    <Position X="21.75" Y="5.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACJAAAQAAAAAACAAAAAAAAAAAAQAAAAAABACAA=</HashCode>
+      <FileName>Controladores\controlCuentas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlDuenos">
+    <Position X="5.25" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIEAAABAAggAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controladores\controlDuenos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlInmuebles">
+    <Position X="0.5" Y="6.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAACAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Controladores\controlInmuebles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlInquilinos">
+    <Position X="8.75" Y="6" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAABAAAAAAAAggAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Controladores\controlInquilinos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Controladores.controlLocalidades">
+    <Position X="16.75" Y="6.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAACAAAAAAAACACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controladores\controlLocalidades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Contrato">
+    <Position X="13.25" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAAAgAAAAEAAAAAAAAAAAAAEAABAAgIAAAA=</HashCode>
+      <FileName>Entidades\Contrato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Cuenta">
+    <Position X="23.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAEAA=</HashCode>
+      <FileName>Entidades\Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Dueno">
+    <Position X="5.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Entidades\Dueno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Inmueble">
+    <Position X="1.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAQAAAgACAACIEAAAFABCgAAAAAACAAAAACAA=</HashCode>
+      <FileName>Entidades\Inmueble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Inquilino">
+    <Position X="9.25" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entidades\Inquilino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Localidad">
+    <Position X="17.75" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Localidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Entidades.Persona">
+    <Position X="7.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAkgAgAgAAAABEAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Entidades\Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloContratos">
+    <Position X="12.75" Y="8.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAQABk=</HashCode>
+      <FileName>Modelos\modeloContratos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloCuentas">
+    <Position X="21.75" Y="8.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAIEACBAAAAAAAAAACAAEAgAAAAiAAAAAAAAAAQAAE=</HashCode>
+      <FileName>Modelos\modeloCuentas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloDuenos">
+    <Position X="5.25" Y="8.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAIEAAEBAACAAAIAAAAAAAAARBAE=</HashCode>
+      <FileName>Modelos\modeloDuenos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloInmuebles">
+    <Position X="0.5" Y="8.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAIAUAAAAKAAAAABAAIAAAQAAE=</HashCode>
+      <FileName>Modelos\modeloInmuebles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloInquilinos">
+    <Position X="8.75" Y="8.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAggAABAAAAEAAACIAAAAgAAAAAAASAAE=</HashCode>
+      <FileName>Modelos\modeloInquilinos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Modelos.modeloLocalidades">
+    <Position X="16.75" Y="8.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAAACAAAAAAAAGACAAEEAAAAAAAAAAAQAAE=</HashCode>
+      <FileName>Modelos\modeloLocalidades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RuedaFinal.Vistas.temaColores">
+    <Position X="30.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAgiAQIBAAAKRAEEGAAIAIAoEBAABIAQBIAIAIEiKM=</HashCode>
+      <FileName>Vistas\temaColores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

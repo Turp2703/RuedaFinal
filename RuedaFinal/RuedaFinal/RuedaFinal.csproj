@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A996ADA8-22AA-403A-9B25-FCBE002BD7D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RuedaFinal</RootNamespace>
+    <AssemblyName>RuedaFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.9\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.barcodes, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.barcodes.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.commons, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.commons.7.2.4\lib\net461\itext.commons.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.pdfa, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.sign, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.sign.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.styledxmlparser, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.styledxmlparser.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.svg, Version=7.2.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itext7.7.2.4\lib\net461\itext.svg.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Controladores\controlContratos.cs" />
+    <Compile Include="Controladores\controlCuentas.cs" />
+    <Compile Include="Controladores\controlDuenos.cs" />
+    <Compile Include="Controladores\controlInmuebles.cs" />
+    <Compile Include="Controladores\controlInquilinos.cs" />
+    <Compile Include="Controladores\controlLocalidades.cs" />
+    <Compile Include="Entidades\Contrato.cs" />
+    <Compile Include="Entidades\Cuenta.cs" />
+    <Compile Include="Entidades\Dueno.cs" />
+    <Compile Include="Entidades\Inmueble.cs" />
+    <Compile Include="Entidades\Inquilino.cs" />
+    <Compile Include="Entidades\Localidad.cs" />
+    <Compile Include="Entidades\Persona.cs" />
+    <Compile Include="Modelos\modeloContratos.cs" />
+    <Compile Include="Modelos\modeloCuentas.cs" />
+    <Compile Include="Modelos\modeloDuenos.cs" />
+    <Compile Include="Modelos\modeloInmuebles.cs" />
+    <Compile Include="Modelos\modeloInquilinos.cs" />
+    <Compile Include="Modelos\modeloLocalidades.cs" />
+    <Compile Include="Vistas\temaColores.cs" />
+    <Compile Include="Vistas\vistaContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaContrato.Designer.cs">
+      <DependentUpon>vistaContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaContratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaContratos.Designer.cs">
+      <DependentUpon>vistaContratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaCuenta.Designer.cs">
+      <DependentUpon>vistaCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaCuentas.Designer.cs">
+      <DependentUpon>vistaCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaDueno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaDueno.Designer.cs">
+      <DependentUpon>vistaDueno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaDuenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaDuenos.Designer.cs">
+      <DependentUpon>vistaDuenos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaExportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaExportar.Designer.cs">
+      <DependentUpon>vistaExportar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaInmueble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaInmueble.Designer.cs">
+      <DependentUpon>vistaInmueble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaInmuebles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaInmuebles.Designer.cs">
+      <DependentUpon>vistaInmuebles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaInquilino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaInquilino.Designer.cs">
+      <DependentUpon>vistaInquilino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaInquilinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaInquilinos.Designer.cs">
+      <DependentUpon>vistaInquilinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaLocalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaLocalidad.Designer.cs">
+      <DependentUpon>vistaLocalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaLocalidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaLocalidades.Designer.cs">
+      <DependentUpon>vistaLocalidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\vistaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaPrincipal.Designer.cs">
+      <DependentUpon>vistaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vistas\vistaSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vistas\vistaSesion.Designer.cs">
+      <DependentUpon>vistaSesion.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vistas\vistaContrato.resx">
+      <DependentUpon>vistaContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaContratos.resx">
+      <DependentUpon>vistaContratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaCuenta.resx">
+      <DependentUpon>vistaCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaCuentas.resx">
+      <DependentUpon>vistaCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaDueno.resx">
+      <DependentUpon>vistaDueno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaDuenos.resx">
+      <DependentUpon>vistaDuenos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaExportar.resx">
+      <DependentUpon>vistaExportar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaInmueble.resx">
+      <DependentUpon>vistaInmueble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaInmuebles.resx">
+      <DependentUpon>vistaInmuebles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaInquilino.resx">
+      <DependentUpon>vistaInquilino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaInquilinos.resx">
+      <DependentUpon>vistaInquilinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaLocalidad.resx">
+      <DependentUpon>vistaLocalidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaLocalidades.resx">
+      <DependentUpon>vistaLocalidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaPrincipal.resx">
+      <DependentUpon>vistaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\vistaSesion.resx">
+      <DependentUpon>vistaSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="diagramaDeClase.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-edit-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trash-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-info-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-done-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restart-50.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
